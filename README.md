@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gene Howell
 ===================================================================================================================================
 
-<a href="https://app.daily.dev/webdevcoder2021"><img src="https://github.com/WebDevGuy2143/WebDevGuy2143/blob/main/devcard.svg" width="400" alt="Gene Howell's Dev Card"/></a>
-
 Full Stack Developer
 --------------------
+
+<a href="https://app.daily.dev/webdevcoder2021"><img src="https://github.com/WebDevGuy2143/WebDevGuy2143/blob/main/devcard.svg" width="400" alt="Gene Howell's Dev Card"/></a>
 
 I have been in the tech industry for over 10 years now. I specialize on all things web technologies, but I also have a passion for software development.
 
