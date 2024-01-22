@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gene Howell
 ===================================================================================================================================
 
+<a href="https://app.daily.dev/webdevcoder2021"><img src="https://github.com/WebDevGuy2143/WebDevGuy2143/blob/main/devcard.svg" width="400" alt="Gene Howell's Dev Card"/></a>
+
 Full Stack Developer
 --------------------
 
@@ -51,8 +53,6 @@ src="https://img.shields.io/twitter/follow/GeneHowell3142?logo=twitter&style=for
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/gene.howell.webguy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/WebDevGuy2143" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/genehowellwebdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GeneHowell3142" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<a href="https://app.daily.dev/webdevcoder2021"><img src="https://api.daily.dev/devcards/5d35c15e10784cefad888809d795df73.png?r=ujs" width="400" alt="Gene Howell's Dev Card"/></a>
 
 ### Badges
 
