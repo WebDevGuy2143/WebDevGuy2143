@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gene Howell
 ===================================================================================================================================
 
+<a href="https://app.daily.dev/webdevcoder2021"><img src="https://api.daily.dev/devcards/5d35c15e10784cefad888809d795df73.png?r=ujs" width="400" alt="Gene Howell's Dev Card"/></a>
+
 Full Stack Developer
 --------------------
 
