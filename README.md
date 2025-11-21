@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **updating my resume with updated projects**
 
-- 🌱 I'm currently learning **well, I'm relearning everything from frontend to backend technologies, mainly focusing on the MERN stack, and WordPress (php) ecosystem**
+- 🌱 I'm currently learning **well, I'm relearning everything from frontend to backend web technologies, mainly focusing on the MERN stack, and WordPress (php) ecosystem**
 
 - 👯 I'm looking to collaborate on **all things Full-stack and current WordPress development**
 
