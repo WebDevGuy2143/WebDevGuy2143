@@ -2,7 +2,7 @@
 
 ### A passionate Full-stack developer
 
-- 🔭 I'm currently working on **updating my resume with updated projects**
+- 🔭 I'm currently working on **updating my resume with updated projects. These projects will include a combination of full-stack applications without AI integration, and full-stack applications with AI integration**
 
 - 🌱 I'm currently learning **well, I'm relearning everything from frontend to backend web technologies, mainly focusing on the MERN stack, and WordPress (php) ecosystem**
 
